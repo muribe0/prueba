@@ -7,3 +7,5 @@
 `git init`: crea .git
 
 `git add`: incluye lo (archivo) que sera enviado
+
+`git commit -m`: envia la archivo
