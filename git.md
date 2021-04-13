@@ -22,13 +22,13 @@
 
 `git push origin master`: sube los cambios a github
 
-
-
 `git clone`: descarga el git de github
 
 `git log`: muestra los commit realizados
 
 
+
+`git remote add origin ...` solo se necesita una vez
 
 
 
